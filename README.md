@@ -7,8 +7,11 @@ Dataset Description:
 The project uses four tables: users, sales, product, and goldusers_signup.
 
 Users Table (users): Contains user IDs and their signup dates.
+
 Sales Table (sales): Contains transaction records, including user ID, product ID, and transaction dates.
+
 Product Table (product): Contains product IDs, product names, and prices.
+
 Gold Users Table (goldusers_signup): Contains user IDs and the date they signed up for the gold membership.
 
 Key Business Insights
